@@ -67,7 +67,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sso v1.4.2 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sts v1.7.2
 	github.com/aws/aws-sdk-go-v2/service/timestreamwrite v1.3.2
-	github.com/aws/smithy-go v1.8.0
+	github.com/aws/smithy-go v1.10.0
 	github.com/benbjohnson/clock v1.1.0
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bitly/go-hostpool v0.1.0 // indirect
